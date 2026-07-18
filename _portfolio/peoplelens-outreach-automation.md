@@ -6,7 +6,7 @@ collection: portfolio
 
 **Tools & Technologies:** Python, Anthropic Claude API, Google Sheets API (gspread, google-auth), HubSpot CRM API (v3 and v4), requests, regex
 
-[View the sanitized source on GitHub](https://github.com/dqy719/REPO-NAME)
+[View the sanitized source on GitHub](https://github.com/Dqy719/GTM-Outreach-Agent)
 
 ## Summary
 
