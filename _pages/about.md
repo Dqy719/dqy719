@@ -23,5 +23,5 @@ The skills that actually matter for this kind of work are less exotic than the m
 
 
 
-I'm looking for a full-time role after graduation, ideally in GTM engineering, sales automation, or an AI-adjacent product role where the work involves building the pipes. 
+I'm looking for a full-time role after graduation, ideally in GTM engineering, sales automation, or an AI-adjacent product role where the work involves building the GTM system pipelines. 
 If your team's building at the intersection of language models and go-to-market, and it sounds like our thinking lines up, let's grab coffee!
